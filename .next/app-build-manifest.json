@@ -12,12 +12,15 @@
       "static/chunks/_e69f0d32._.js",
       "static/chunks/_42fd111b._.js"
     ],
-    "/dashboard/customers/page": [
-      "static/chunks/[root-of-the-server]__81e4402d._.css",
+    "/dashboard/(overview)/page": [
       "static/chunks/f07ee_next_dist_35a4b6e8._.js",
+      "static/chunks/app_favicon_ico_mjs_094c3bdf._.js",
+      "static/chunks/[root-of-the-server]__81e4402d._.css",
       "static/chunks/app_layout_tsx_be0f615f._.js",
       "static/chunks/_48849090._.js",
-      "static/chunks/app_dashboard_layout_tsx_de166335._.js",
+      "static/chunks/app_dashboard_layout_tsx_98ba1549._.js",
+      "static/chunks/f07ee_next_dist_a05d8574._.js",
+      "static/chunks/app_dashboard_(overview)_page_tsx_0d8a1e71._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_727141ce._.js",
       "static/chunks/f07ee_next_dist_compiled_072afd38._.js",
       "static/chunks/f07ee_next_dist_client_5cf5dcf9._.js",
@@ -27,11 +30,17 @@
       "static/chunks/_42fd111b._.js"
     ],
     "/dashboard/invoices/page": [
-      "static/chunks/[root-of-the-server]__81e4402d._.css",
       "static/chunks/f07ee_next_dist_35a4b6e8._.js",
+      "static/chunks/app_favicon_ico_mjs_094c3bdf._.js",
+      "static/chunks/[root-of-the-server]__81e4402d._.css",
       "static/chunks/app_layout_tsx_be0f615f._.js",
       "static/chunks/_48849090._.js",
-      "static/chunks/app_dashboard_layout_tsx_de166335._.js",
+      "static/chunks/app_dashboard_layout_tsx_98ba1549._.js",
+      "static/chunks/app_dashboard_invoices_error_tsx_7e72c89d._.js",
+      "static/chunks/app_dashboard_invoices_error_tsx_0d8a1e71._.js",
+      "static/chunks/node_modules__pnpm_d62683aa._.js",
+      "static/chunks/app_6b215323._.js",
+      "static/chunks/app_dashboard_invoices_page_tsx_0d8a1e71._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_727141ce._.js",
       "static/chunks/f07ee_next_dist_compiled_072afd38._.js",
       "static/chunks/f07ee_next_dist_client_5cf5dcf9._.js",
@@ -40,12 +49,12 @@
       "static/chunks/_e69f0d32._.js",
       "static/chunks/_42fd111b._.js"
     ],
-    "/dashboard/page": [
+    "/login/page": [
       "static/chunks/[root-of-the-server]__81e4402d._.css",
       "static/chunks/f07ee_next_dist_35a4b6e8._.js",
       "static/chunks/app_layout_tsx_be0f615f._.js",
-      "static/chunks/_48849090._.js",
-      "static/chunks/app_dashboard_layout_tsx_de166335._.js",
+      "static/chunks/[root-of-the-server]__1202d6bd._.js",
+      "static/chunks/app_login_page_tsx_de166335._.js",
       "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_727141ce._.js",
       "static/chunks/f07ee_next_dist_compiled_072afd38._.js",
       "static/chunks/f07ee_next_dist_client_5cf5dcf9._.js",
